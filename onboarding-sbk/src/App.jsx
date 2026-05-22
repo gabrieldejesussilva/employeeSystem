@@ -22,6 +22,8 @@ function App() {
   }
   return (
     <div>
+      <h1>Employee Management System</h1>
+      <p>Manage employees and departments</p>
       <input 
         type ="text"
         value = {name} 
